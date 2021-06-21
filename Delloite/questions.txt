@@ -1,0 +1,36 @@
+int n=5
+
+int result;
+
+public int recursion(int n){
+
+  result=result*(recursion(n-1));
+
+
+}
+
+
+}
+for(int i=n;i>0;i--)
+{
+
+}
+
+2 . String s="malayalam"
+   Stringbuffer str=new StringBuffer(s);
+String s1=str.reverse();
+if (s.equals(s1)){system.print
+
+ 3  int n=100;
+for ( int j=2;j<=100;j++){
+    for (int i=2;i<=100;i++)
+{
+
+    if(j%i==0){ count++;}
+
+
+if (count==1){ system.out.println("Number is prime")
+}
+
+
+
